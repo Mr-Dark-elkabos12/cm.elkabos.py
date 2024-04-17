@@ -8,15 +8,15 @@ Hack Cameras
 
 * apt-get install git
 
-* git clone https://github.com/sadamshr3be/cam-alsharabi
+* git clone  https://github.com/Mr-Dark-elkabos12/cm.elkabos.py.git
 
 * pip3 install requests
 
 * pip3 install colorama
 
-* cd cam-alsharabi
+* cd cam-elkabos
 
-* python3 cam-lasharabi.py
+* python3 cam-elkabos.py
 
 
 <h3> @termuxalsharabi : </h3>
